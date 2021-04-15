@@ -1,0 +1,32 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 15px;
+    padding-bottom: 12px;
+}
+#home{
+    height: 790px;
+    padding: 3px 80px;
+}
+#home::before{
+    height: 800px;
+}
+#home P{
+    font-size: 20px;
+}
+.h-primary{
+    font-size: 25px;
+}
+#service{
+    flex-direction: column;
+    margin-top: -6px;
+}
+#service .box img {
+    width: 230px;
+    height: 220px;
+}
+#service .box{
+    margin-top: 6px;
+}
